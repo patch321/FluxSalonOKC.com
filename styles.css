@@ -109,7 +109,7 @@ h1, h2, h3, p {
 .banner {
     height: 600px;
     padding-top: 200px;
-    background-image: url('https://db.tt/szilFbCk');
+    background-image: url('images/banner.jpg');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -172,7 +172,7 @@ h1, h2, h3, p {
     height: 100%;
     margin: 0 auto;
     padding: 130px 0;
-    background-image: url('https://db.tt/krFLufRJ');
+    background-image: url('images/hoursLocationBack.jpg');
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
